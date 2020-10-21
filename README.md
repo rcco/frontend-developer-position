@@ -3,7 +3,7 @@ The task for applying for the frontend developer position @ RCCO. If you have fo
 
 ## Introduction
 
-At RCCO we work with Technology brands, ranging from startup to enterprise. This means that the developement work can range from either creating a completely new online presence for the company or editing/updating a specific part of their internal app. Our current goto development stack for development is; [Nuxt](https://nuxtjs.org/), [Tailwind](https://tailwindcss.com/) and [Netlify](https://www.netlify.com/).
+At RCCO we work with Technology brands ranging from startup to enterprise. This means that the developement work can range from either creating a completely new online presence for the company or editing/updating a specific part of their internal app. Our current goto development stack for development is; [Nuxt](https://nuxtjs.org/), [Tailwind](https://tailwindcss.com/) and [Netlify](https://www.netlify.com/).
 
 In the task below, we have tried to capture the average hand off task that would be given during a project development sprint.
 
