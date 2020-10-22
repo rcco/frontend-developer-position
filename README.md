@@ -13,6 +13,8 @@ One of the key parts in the world with the current state of the coronavirus has 
 
 The design team have already created the mockups for the dashboard which are below, therefore the the next steps are to translate the mockups to code. The stack the client has asked for only requires either Vue.js or Nuxt.js. The maximum timeframe for this task is two working days (bonus if submission is even shorter). Make sure to keep in mind responsive design techniques.
 
+[Link to mockups](https://www.figma.com/file/8CjOdNfeOzKoo1zc5juLBd/RCCO-DEV-Task%3A-COVID-Landing-Page)
+
 ## Tasks
 * Develop a base structure for the api results to be displayed using the mockups provided.
 * Integrate a way to pull the data from the api into the site
@@ -24,3 +26,4 @@ The design team have already created the mockups for the dashboard which are bel
 * [Nuxt](https://nuxtjs.org/) - RCCO's preferred framework
 * [Netlify](https://www.netlify.com/) - A static website host
 * [GOV.UK API](https://coronavirus.data.gov.uk/developers-guide) - The API documentation
+* [Mockups](https://www.figma.com/file/8CjOdNfeOzKoo1zc5juLBd/RCCO-DEV-Task%3A-COVID-Landing-Page) - The mockups of the task
