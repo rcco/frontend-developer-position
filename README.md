@@ -11,7 +11,7 @@ In the task below, we have tried to capture the average hand off task that would
 
 One of the key parts in the world with the current state of the coronavirus has been the use of availabilty of statistical information. Our client has asked us to create a dashboard displaying the latest corona virus cases using the [GOV.UK API](https://coronavirus.data.gov.uk/developers-guide) for the United Kingdom.
 
-The design team have already created the mockups for the dashboard which are below, therefore the the next steps are to translate the mockups to code. The stack the client has asked for only requires either Vue.js or Nuxt.js. The maximum timeframe for this task is two working days (bonus if submission is even shorter).
+The design team have already created the mockups for the dashboard which are below, therefore the the next steps are to translate the mockups to code. The stack the client has asked for only requires either Vue.js or Nuxt.js. The maximum timeframe for this task is two working days (bonus if submission is even shorter). Make sure to keep in mind responsive design techniques.
 
 ## Tasks
 * Develop a base structure for the api results to be displayed using the mockups provided.
